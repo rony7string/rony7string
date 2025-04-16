@@ -35,7 +35,7 @@ Besides coding, I'm a:
 
 - 📧 Email: [iftyron@gmail.com](mailto:iftyron@gmail.com)
 - 🔗 LinkedIn: https://www.linkedin.com/in/iftyron/
-- 🌐 Website: <a href="iftyron.com">iftyron.com</a>
+- 🌐 Website: iftyron.com
 ---
 
 _Thanks for stopping by! Let's build something cool together._
