@@ -34,8 +34,8 @@ Besides coding, I'm a:
 ### 📬 Reach Out
 
 - 📧 Email: [iftyron@gmail.com](mailto:iftyron@gmail.com)
-- 🔗 LinkedIn: *(add your link here)*
-- 🌐 Website: iftyron.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/iftyron/
+- 🌐 Website: <a href="iftyron.com">iftyron.com</a>
 ---
 
 _Thanks for stopping by! Let's build something cool together._
